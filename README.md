@@ -1,0 +1,1 @@
+Built pretty much with plain HTML, JS, and CSS. A more complete and feature rich solution could likely be implemented in another language or framework. As such, this repository is **archived** until a decision is made as to how the arcade machine games and interface will be built.
